@@ -33,3 +33,17 @@ Triggers -> Custom Domains -> Add a custom domain.
 #### License
 
 Distributed under the MIT License.
+
+### HOW TO DEPLOY
+
+- git clone this repo
+- cd to the project folder
+- make sure you have node.js installed
+- login to your CloudFlare account in the browser
+- npm i && npm run deploy
+- authenticate your CloudFlare account
+- done
+
+### NOTES:
+
+fork the repo and deploy on CloudFlare Pages not supported.
